@@ -20,4 +20,5 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-Upload your own image or use `data/sample_images/demo.jpg`.
+![Demo screenshot](reports/demo_1.png)
+
