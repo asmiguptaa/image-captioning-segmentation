@@ -20,5 +20,6 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-![Demo screenshot](reports/demo_1.png)
+![Demo screenshot](reports/inputimage.png,reports/maskview.png,reports/outputimage.png)
+
 
